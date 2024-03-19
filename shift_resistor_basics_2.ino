@@ -1,4 +1,5 @@
-
+//Copyright (C) 2007 Free Software Foundation, Inc. <arduinounomagic@gmail.com>
+//For more projects please visit://www.arduinounomagic.com
 //This example turn on alternate LEDs one by one and then turn off them in the same manner. 
 
 const int DataPin=2;       // Data pin of 74HC595 shift resistor is connected to pin 2 
