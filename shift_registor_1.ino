@@ -1,4 +1,5 @@
-
+//Copyright (C) 2007 Free Software Foundation, Inc. <arduinounomagic@gmail.com>
+//For more projects please visit://www.arduinounomagic.com
 //This is a basic shift resistor example which will turn on all the 8 LEDs for a second and then turn them off after some delay 
 
 const int DataPin=2;              // Data pin of 74HC595 shift resistor is connected to pin 2 
